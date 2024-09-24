@@ -1,4 +1,4 @@
-# Pathfinder!
+# [Pathfinder!](https://kevnngyen.github.io/Pathfinder-/)
 
 This web application illustrates a maze and demonstrates its traversal path from the starting point to the end, if such a path exists.
 It uses a recursive depth-first search algorithm to traverse. 
